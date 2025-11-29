@@ -1,0 +1,4 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Motorola G73 5G
+Device maintainer: Sreejith S
